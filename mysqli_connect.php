@@ -3,9 +3,7 @@
 // This file also establishes a connection to MySQL 
 // and selects the database.
 
-$db_user = 'root';
-$db_password = 'Motdepasse0!';
-$db_host = '127.0.0.1';
+
   
 
 // Set the database access information as constants:
